@@ -15,7 +15,7 @@
 
 ## Technologies Used
 
-- **Frontend**: React, Chart.js, AG Grid, React Router.
+- **Frontend**: React, React Router.
 - **Styling**: CSS with media queries for responsiveness.
 
 ## Installation and Setup
