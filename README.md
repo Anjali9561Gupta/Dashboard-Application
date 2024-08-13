@@ -1,6 +1,6 @@
 # Dynamic Dashboard with React
 
-# Link -> 
+# Link -> https://dashboard-application-six.vercel.app/
 
 ## Project Overview
 <p>A React application that allows users to dynamically add and remove widgets within categories, and search through a list of widgets. This project demonstrates how to use React with Redux for state management, CSS for styling, and responsive design principles.</p>
